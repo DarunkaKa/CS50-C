@@ -1,0 +1,8 @@
+enter height 
+if height is less than one or greater than 8
+   go back to step 1
+repeat cycle "line" from 1 to 8
+  in line print thorps
+  thorps are less or equal than line 
+  go to a new row
+end code
