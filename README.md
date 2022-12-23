@@ -34,7 +34,7 @@
 >pset5
 - inheritance
 - speller
-## About CS50x
+## *About CS50x*
 >https://cs50.harvard.edu/x/2022/
 
 An entry-level course taught by David J. Malan.
